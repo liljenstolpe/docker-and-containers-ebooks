@@ -19,3 +19,7 @@ Each of the chapters in this preview comes from a book in The New Stack's Docker
 **Book 3: Automation & Orchestration With Docker & Containers**
 
 * [Docker Orchestration Tools](DockerOrchestrationTools.md), *by Janakiram MSV*
+
+**Book 4: Networking, Storage, & Security**
+
+* [Plumbing all the Things](Plumbing.md), *by Christopher Liljenstolpe*
